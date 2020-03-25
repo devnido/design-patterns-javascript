@@ -1,5 +1,4 @@
-## Patrones de diseño en Javascript
------
+# Patrones de diseño en Javascript
 
 ### Contenido
 
